@@ -1,5 +1,5 @@
 name="Equestria at War - Boars Vs Goats"
-path="mod/Equestria at War - Boars Vs Goats/"
+path="mod/Boars-Vs-Goats/"
 dependencies = { "Equestria at War" }
 tags={
 	"Alternative History"
