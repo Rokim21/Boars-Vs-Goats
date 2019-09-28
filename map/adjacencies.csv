@@ -1,0 +1,4 @@
+From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
+
+13360;13411;sea;13343;-1;-1;-1;-1;;Dent Mainland
+13345;13411;sea;13343;-1;-1;-1;-1;;Dent Islands
