@@ -1,8 +1,12 @@
 state={
 	id=703
 	name="STATE_703"
+	history={
+		owner = ANT
+		add_core_of = ANT
+	}
 	provinces={
-		13417 13436 13437 13442 
+		13436 13437 13442 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

@@ -1,8 +1,12 @@
 state={
 	id=698
 	name="STATE_698"
+	history={
+		owner = KTI
+		add_core_of = KTI
+	}
 	provinces={
-		13419 13420 13421 13422 13423 13424 
+		13419 13420 13421 13422 13423 13424 13344 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

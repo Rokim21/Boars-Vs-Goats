@@ -1,6 +1,10 @@
 state={
 	id=708
 	name="STATE_708"
+	history={
+		owner = ANT
+		add_core_of = ANT
+	}
 	provinces={
 		13464 13465 13466 13467 
 	}

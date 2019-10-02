@@ -1,7 +1,11 @@
-
 state={
 	id=701
 	name="STATE_701"
+	history={
+		owner = MUS
+		add_core_of = MUS
+		victory_points = { 13440 50 }
+	}
 	provinces={
 		13415 13431 13439 13440 
 	}
