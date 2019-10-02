@@ -1,0 +1,8 @@
+ANT = "countries/Antisuyu.txt"
+CHA = "countries/Chinchasuyu.txt"
+KTI = "countries/Kuntisuyu.txt"
+MUS = "countries/Musogsuyu.txt"
+POR = "countries/Porcinia.txt"
+
+
+
