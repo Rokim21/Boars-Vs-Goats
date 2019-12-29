@@ -4,7 +4,7 @@ state={
 	history={
 		owner = MUS
 		add_core_of = MUS
-		victory_points = { 13440 50 }
+		victory_points = { 13440 25 }
 	}
 	provinces={
 		13415 13431 13439 13440 
