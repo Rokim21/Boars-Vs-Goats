@@ -1,13 +1,19 @@
+
 state={
 	id=699
 	name="STATE_699"
+
 	history={
-		owner = ANQ
-		add_core_of = ANQ
-		victory_points = { 13413 30 }
+		owner = MUS
+		add_core_of = MUS
+		victory_points = {
+			13413 30 
+		}
+
 	}
+
 	provinces={
-		13413 
+		13413 13469 13470 
 	}
 	manpower=1767523
 	buildings_max_level_factor=1.000

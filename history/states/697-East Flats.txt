@@ -2,8 +2,8 @@ state={
 	id=697
 	name="STATE_697"
 	history={
-		owner = KTI
-		add_core_of = KTI
+		owner = ANT
+		add_core_of = ANT
 	}
 	provinces={
 		13414 13416 13418 

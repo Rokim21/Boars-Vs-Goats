@@ -1,12 +1,16 @@
+
 state={
 	id=702
 	name="STATE_702"
+
 	history={
-		owner = MUS
-		add_core_of = MUS
+		owner = KTI
+		add_core_of = KTI
+
 	}
+
 	provinces={
-		13435 13438 13441 13444 
+		13436 13437 13444 13457 13476 13505 13510 13517 13520 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

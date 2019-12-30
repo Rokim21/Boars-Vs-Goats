@@ -1,13 +1,19 @@
+
 state={
 	id=705
 	name="STATE_705"
+
 	history={
 		owner = MUS
 		add_core_of = MUS
-		victory_points = { 13443 50 }
+		victory_points = {
+			13499 50 
+		}
+
 	}
+
 	provinces={
-		13443 13445 13448 13449 13451 13453 13454 13457 
+		13445 13448 13451 13453 13454 13499 13540 13541 13549 13552 13556 13557 13560 13562 13565 13566 13569 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

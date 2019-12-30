@@ -1,12 +1,16 @@
+
 state={
 	id=706
 	name="STATE_706"
+
 	history={
-		owner = ANT
-		add_core_of = ANT
+		owner = KTI
+		add_core_of = KTI
+
 	}
+
 	provinces={
-		13450 13452 13455 13456 
+		13450 13452 13455 13456 13489 13490 13491 13494 13495 13497 13498 13544 13555 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
