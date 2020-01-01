@@ -1,0 +1,14 @@
+state={
+	id=714
+	name="STATE_714"
+	history={
+		owner = ANT
+		add_core_of = ANT
+
+	}
+	provinces={
+		13579 13581 13583 13587 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}
