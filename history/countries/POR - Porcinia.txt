@@ -1,4 +1,4 @@
-﻿capital = 683
+capital = 683
 set_research_slots = 3
 
 set_technology = {
@@ -69,6 +69,30 @@ add_ideas = {
 }
 set_stability = 0.6
 set_war_support = 0.4
+
+create_corps_commander = {
+	name = "Leon V. Gichon"
+	picture = "Othmar_Stoiber.tga"
+	traits = { career_officer war_hero defensive_doctrine }
+	skill = 3
+	attack_skill = 2
+	defense_skill = 3
+	planning_skill = 3
+	logistics_skill = 2
+	id = 284001
+}
+
+create_corps_commander = {
+	name = "Emile Durand"
+	picture = "Othmar_Stoiber.tga"
+	traits = { career_officer war_hero defensive_doctrine }
+	skill = 3
+	attack_skill = 2
+	defense_skill = 3
+	planning_skill = 3
+	logistics_skill = 2
+	id = 284001
+}
 
 set_rule = {
 	can_generate_female_aces = yes
