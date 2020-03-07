@@ -1,12 +1,16 @@
+
 state={
 	id=707
 	name="STATE_707"
+
 	history={
 		owner = CHA
 		add_core_of = CHA
+
 	}
+
 	provinces={
-		13458 13459 13460 13461 13462 13463 
+		13461 13463 13629 13631 13632 13633 13634 13635 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
