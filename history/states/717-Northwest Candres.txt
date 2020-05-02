@@ -1,6 +1,13 @@
 state={
 	id=717
 	name="STATE_717"
+
+	history={
+		owner = CHA
+		add_core_of = CHA
+
+	}
+	
 	provinces={
 		13460 13588 13590 13594 13597 13598 13599 13600 13603 13604 13609 13610 13611 13613 
 	}

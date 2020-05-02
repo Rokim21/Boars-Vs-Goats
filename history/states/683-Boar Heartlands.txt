@@ -2,17 +2,25 @@
 state={
 	id=683
 	name="STATE_683"
+
 	history={
 		owner = POR
 		add_core_of = POR
-		victory_points = { 13375 50 }
-		victory_points = { 13372 10 }
-		victory_points = { 13353 30 }
-	}
-	provinces={
-		13353 13354 13357 13370 13372 13373 13375 
+		victory_points = {
+			13375 50 
+		}
+		victory_points = {
+			13372 10 
+		}
+		victory_points = {
+			13353 30 
+		}
+
 	}
 
+	provinces={
+		13357 13374 13375 13875 13878 13882 13884 13886 13892 13893 13895 14020 14022 
+	}
 	manpower=0
 	buildings_max_level_factor=1.000
 }

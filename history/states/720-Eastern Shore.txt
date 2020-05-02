@@ -2,8 +2,15 @@
 state={
 	id=720
 	name="STATE_720"
+
+	history={
+		owner = ANT
+		add_core_of = ANT
+
+	}
+	
 	provinces={
-		13418 13419 13649 13650 13652 13655 13659 13660 13664 13666 
+		13418 13419 13655 13657 13658 13659 13665 13670 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

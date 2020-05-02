@@ -1,12 +1,16 @@
+
 state={
 	id=693
 	name="STATE_693"
+
 	history={
 		owner = POR
 		add_core_of = POR
+
 	}
+
 	provinces={
-		13385 13386 13387 13388 13403 13404 
+		13367 13385 13386 13387 13388 13701 13704 13705 13706 13855 13861 13865 13866 13871 13872 13873 13877 13887 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

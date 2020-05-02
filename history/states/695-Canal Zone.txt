@@ -1,12 +1,16 @@
+
 state={
 	id=695
 	name="STATE_695"
+
 	history={
 		owner = MUS
 		add_core_of = MUS
+
 	}
+
 	provinces={
-		13347 
+		13347 13647 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
