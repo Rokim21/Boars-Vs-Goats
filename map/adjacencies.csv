@@ -114,4 +114,6 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 13762;13397;sea;1901;-1;-1;-1;-1;;Pig Venice
 13762;13395;sea;1901;-1;-1;-1;-1;;Pig Venice
 
+1709;5141;sea;13346;1560;1009;1556;1016;PORCICAPRIA_CANAL;Porcicapria Canal
+
 -1;-1;;-1;-1;-1;-1;-1;-1
