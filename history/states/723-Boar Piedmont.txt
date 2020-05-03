@@ -2,9 +2,20 @@
 state={
 	id=723
 	name="STATE_723"
+	state_category = rural
+	resources={
+		steel = 4
+	}
+	history={
+		owner = POR
+		add_core_of = POR
+		buildings = {
+			infrastructure = 4
+		}
+	}
 	provinces={
 		13821 13826 13834 13848 
 	}
-	manpower=0
+	manpower=384000
 	buildings_max_level_factor=1.000
 }

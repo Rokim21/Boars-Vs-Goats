@@ -2,16 +2,22 @@
 state={
 	id=693
 	name="STATE_693"
-
+	state_category = town
+	resources={
+		oil = 19
+		steel = 3
+	}
 	history={
 		owner = POR
 		add_core_of = POR
-
+		buildings = {
+			infrastructure = 2
+			fuel_silo = 3
+		}
 	}
-
 	provinces={
-		13367 13385 13386 13387 13388 13701 13704 13705 13706 13855 13861 13865 13866 13871 13872 13873 13877 13887 
+		13367 13368 13369 13386 13698 13699 13700 13701 13704 13705 13818 13819 13820 13830 13832 13836 13836 13839 
 	}
-	manpower=0
+	manpower=45000
 	buildings_max_level_factor=1.000
 }

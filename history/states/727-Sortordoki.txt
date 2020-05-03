@@ -2,9 +2,21 @@
 state={
 	id=727
 	name="STATE_727"
-	provinces={
-		13392 13403 13404 13711 13714 13715 13718 13722 13723 13727 13733 13736 13738 13745 13748 13749 13756 
+	state_category = town
+	resources={
+		oil = 29
 	}
-	manpower=0
+	history={
+		owner = POR
+		add_core_of = POR
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+		}
+	}
+	provinces={
+		13385 13387 13392 13403 13404 13706 13711 13714 13715 13718 13722 13723 13727 13733 13736 13738 13745 13748 13749 13756 
+	}
+	manpower=110000
 	buildings_max_level_factor=1.000
 }

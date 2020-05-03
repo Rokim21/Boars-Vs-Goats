@@ -2,16 +2,24 @@
 state={
 	id=694
 	name="STATE_694"
-
+	state_category = metropolis
+	resources={
+		steel = 2
+		aluminium = 4
+	}
 	history={
 		owner = POR
 		add_core_of = POR
-
+		buildings = {
+			infrastructure = 8
+			arms_factory = 3
+			industrial_complex = 3
+			dockyard = 1
+		}
 	}
-
 	provinces={
 		13406 13770 13773 13779 13781 13786 13787 13788 13792 13795 13796 13799 13802 13803 13804 13806 13808 13811 
 	}
-	manpower=0
+	manpower=1134000
 	buildings_max_level_factor=1.000
 }

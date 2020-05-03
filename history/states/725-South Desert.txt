@@ -2,9 +2,21 @@
 state={
 	id=725
 	name="STATE_725"
-	provinces={
-		13368 13369 13697 13698 13699 13700 13814 13817 13818 13819 13820 13827 13829 13830 13832 13836 13838 13839 13841 13845 13847 13850 13859 
+	state_category = wasteland
+	resources={
+		chromium = 1
+		tungsten = 3
 	}
-	manpower=0
+	history={
+		owner = POR
+		add_core_of = POR
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	provinces={
+		13380 13382 13383 13384 13707 13708 13710 14108 14113 14115 14116 14124 14129 
+	}
+	manpower=234000
 	buildings_max_level_factor=1.000
 }

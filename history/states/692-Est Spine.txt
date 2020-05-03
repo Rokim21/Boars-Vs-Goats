@@ -2,16 +2,22 @@
 state={
 	id=692
 	name="STATE_692"
-
+	state_category = pastoral
+	resources={
+		steel = 2
+		chromium = 2
+	}
 	history={
 		owner = POR
 		add_core_of = POR
-
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
 	}
-
 	provinces={
-		13380 13382 13384 13398 13399 13400 13401 13707 13708 13710 13716 13721 13729 13739 13742 13754 13757 13767 13769 13771 14113 14124 14129 
+		13398 13399 13400 13401 13716 13721 13729 13739 13742 13754 13757 13767 13769 13771 
 	}
-	manpower=0
+	manpower=331000
 	buildings_max_level_factor=1.000
 }

@@ -2,25 +2,29 @@
 state={
 	id=683
 	name="STATE_683"
-
+	state_category = metropolis
+	resources={
+		oil = 2
+		steel = 2
+	}
 	history={
 		owner = POR
 		add_core_of = POR
-		victory_points = {
-			13375 50 
+		buildings = {
+			infrastructure = 10
+			arms_factory = 2
+			industrial_complex = 5
+			dockyard = 2
+			13895 = { naval_base = 5 }
 		}
 		victory_points = {
-			13372 10 
+			13375 30 
 		}
-		victory_points = {
-			13353 30 
-		}
-
 	}
 
 	provinces={
 		13357 13374 13375 13875 13878 13882 13884 13886 13892 13893 13895 14020 14022 
 	}
-	manpower=0
+	manpower=2321000
 	buildings_max_level_factor=1.000
 }

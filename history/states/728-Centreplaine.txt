@@ -2,9 +2,23 @@
 state={
 	id=728
 	name="STATE_728"
-	provinces={
-		13389 13390 13393 13712 13713 13719 13720 13883 13889 13891 13894 13897 13898 
+	state_category = city
+	resources={
+		oil = 117
+		steel = 2
 	}
-	manpower=0
+	history={
+		owner = POR
+		add_core_of = POR
+		buildings = {
+			infrastructure = 6
+			arms_factory = 2
+			industrial_complex = 3
+		}
+	}
+	provinces={
+		13388 13389 13390 13393 13712 13713 13719 13720 13847 13855 13861 13865 13866 13871 13872 13873 13877 13883 13887 13889 13891 13894 13897 13898 
+	}
+	manpower=477000
 	buildings_max_level_factor=1.000
 }
