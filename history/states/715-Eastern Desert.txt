@@ -2,16 +2,21 @@
 state={
 	id=715
 	name="STATE_715"
-
+	state_category = wasteland
+	resources={
+		oil = 1
+	}
 	history={
 		owner = ANT
 		add_core_of = ANT
-
+		buildings = {
+			infrastructure = 2
+		}
 	}
 
 	provinces={
 		13584 13585 13586 13589 13591 13593 13595 13596 13605 13606 
 	}
-	manpower=0
+	manpower=81000
 	buildings_max_level_factor=1.000
 }

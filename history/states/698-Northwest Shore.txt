@@ -2,16 +2,26 @@
 state={
 	id=698
 	name="STATE_698"
-
+	state_category = town
+	resources={
+		steel = 6
+		crystals= 5
+		chromium = 8
+		tungsten= 1
+		aluminum = 5
+	}
 	history={
 		owner = ANT
 		add_core_of = ANT
-
+		buildings = {
+			infrastructure = 3
+			13696 = { naval_base = 3 }
+		}
 	}
 
 	provinces={
 		13344 13420 13422 13423 13424 13674 13681 13682 13683 13684 13685 13686 13687 13688 13689 13690 13691 13692 13693 13694 13695 13696 
 	}
-	manpower=0
+	manpower=274000
 	buildings_max_level_factor=1.000
 }
