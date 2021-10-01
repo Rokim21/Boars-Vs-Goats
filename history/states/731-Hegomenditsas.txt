@@ -2,14 +2,17 @@
 state={
 	id=731
 	name="STATE_731"
+	state_category = pastoral
 	history={
 		owner = POR
 		add_core_of = POR
-
+		buildings = {
+			infrastructure = 2
+		}
 	}
 	provinces={
 		13913 13924 13927 13932 13940 13943 13949 13954 13957 13961 13967 13972 13979 
 	}
-	manpower=0
+	manpower=157000
 	buildings_max_level_factor=1.000
 }

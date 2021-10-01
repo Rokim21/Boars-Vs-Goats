@@ -1,14 +1,18 @@
 state={
 	id=730
 	name="STATE_730"
+	state_category = rural
 	history={
 		owner = POR
 		add_core_of = POR
-
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
 	}
 	provinces={
 		13351 13355 13973 13987 13988 13996 13999 14001 14004 14007 14009 14014 14017 
 	}
-	manpower=0
+	manpower=213000
 	buildings_max_level_factor=1.000
 }

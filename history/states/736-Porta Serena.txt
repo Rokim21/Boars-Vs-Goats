@@ -1,14 +1,25 @@
 state={
 	id=736
 	name="STATE_736"
+	state_category = rural
+	resources={
+		rubber = 2
+	}
 	history={
 		owner = WNG
 		add_core_of = POR
-
+		buildings = {
+			infrastructure = 6
+			dockyard = 2
+			14111 = { naval_base = 4 }
+		}
+		victory_points = {
+			14111 5 
+		}
 	}
 	provinces={
 		14110 14111 
 	}
-	manpower=0
+	manpower=17000
 	buildings_max_level_factor=1.000
 }

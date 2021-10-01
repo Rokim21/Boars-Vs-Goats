@@ -2,16 +2,24 @@
 state={
 	id=686
 	name="STATE_686"
-
+	state_category = rural
+	resources={
+		rubber = 13
+	}
 	history={
 		owner = POR
 		add_core_of = POR
-
+		buildings = {
+			infrastructure = 2
+		}
+		#victory_points = {
+		#	13375 10 
+		#}
 	}
 
 	provinces={
 		13362 13378 13379 14056 14060 14064 14065 14066 14068 14071 14072 14073 14074 14075 14076 14077 14079 14080 14081 14082 14083 14084 14085 14087 14089 14090 14091 14092 14093 14094 14097 14100 14101 14102 
 	}
-	manpower=0
+	manpower=298000
 	buildings_max_level_factor=1.000
 }
