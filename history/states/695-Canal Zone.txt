@@ -2,16 +2,21 @@
 state={
 	id=695
 	name="STATE_695"
-
+	state_category = rural
 	history={
 		owner = MUS
 		add_core_of = MUS
-
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			dockyard = 1
+			13347 = { naval_base = 2 }
+		}
 	}
 
 	provinces={
 		13347 13647 
 	}
-	manpower=0
+	manpower=80000
 	buildings_max_level_factor=1.000
 }

@@ -2,12 +2,22 @@
 state={
 	id=701
 	name="STATE_701"
-
+	state_category = large_city
+	resources={
+		steel = 5
+	}
 	history={
 		owner = MUS
 		add_core_of = MUS
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 2
+			dockyard = 3
+			13440 = { naval_base = 4 }
+		}
 		victory_points = {
-			13440 25 
+			13440 20 
 		}
 
 	}
@@ -15,6 +25,6 @@ state={
 	provinces={
 		13415 13431 13439 13440 13509 13511 13513 13516 13519 13521 13523 13526 13528 13529 13530 13531 13533 13534 13537 13539 13539 13543 
 	}
-	manpower=0
+	manpower=1214000
 	buildings_max_level_factor=1.000
 }

@@ -2,10 +2,20 @@
 state={
 	id=699
 	name="STATE_699"
-
+	state_category = large_city
+	resources={
+		steel = 3
+	}
 	history={
 		owner = MUS
 		add_core_of = MUS
+		buildings = {
+			infrastructure = 6
+			arms_factory = 1
+			industrial_complex = 3
+			dockyard = 4
+			13413 = { naval_base = 6 }
+		}
 		victory_points = {
 			13413 30 
 		}

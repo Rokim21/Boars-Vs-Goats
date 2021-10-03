@@ -2,12 +2,23 @@
 state={
 	id=705
 	name="STATE_705"
-
+	state_category = large_city
+	resources={
+		tungsten = 8
+		steel = 15
+		aluminium = 11
+		crystals = 25
+	}
 	history={
 		owner = MUS
 		add_core_of = MUS
+		buildings = {
+			infrastructure = 5
+			arms_factory = 2
+			industrial_complex = 4
+		}
 		victory_points = {
-			13499 50 
+			13499 35 
 		}
 
 	}
@@ -15,6 +26,6 @@ state={
 	provinces={
 		13445 13448 13451 13453 13454 13499 13540 13541 13549 13552 13556 13557 13560 13562 13565 13566 13569 
 	}
-	manpower=0
+	manpower=2427000
 	buildings_max_level_factor=1.000
 }
