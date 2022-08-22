@@ -1,6 +1,6 @@
 state={
-	id=714
-	name="STATE_714"
+	id=1240
+	name="STATE_1240"
 	state_category = town
 	history={
 		owner = ANT

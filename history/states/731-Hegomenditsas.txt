@@ -1,7 +1,7 @@
 
 state={
-	id=731
-	name="STATE_731"
+	id=1257
+	name="STATE_1257"
 	state_category = pastoral
 	history={
 		owner = POR

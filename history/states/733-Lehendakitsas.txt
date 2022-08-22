@@ -1,7 +1,7 @@
 
 state={
-	id=733
-	name="STATE_733"
+	id=1259
+	name="STATE_1259"
 	state_category = town
 	resources={
 		oil = 2

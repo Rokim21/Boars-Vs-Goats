@@ -1,7 +1,7 @@
 
 state={
-	id=701
-	name="STATE_701"
+	id=1227
+	name="STATE_1227"
 	state_category = large_city
 	resources={
 		steel = 5

@@ -1,7 +1,7 @@
 
 state={
-	id=728
-	name="STATE_728"
+	id=1254
+	name="STATE_1254"
 	state_category = city
 	resources={
 		oil = 117

@@ -1,7 +1,7 @@
 
 state={
-	id=711
-	name="STATE_711"
+	id=1237
+	name="STATE_1237"
 	state_category = rural
 	resources={
 		tungsten = 3

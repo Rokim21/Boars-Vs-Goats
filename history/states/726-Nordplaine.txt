@@ -1,7 +1,7 @@
 
 state={
-	id=726
-	name="STATE_726"
+	id=1252
+	name="STATE_1252"
 	state_category = town
 	resources={
 		chromium = 5

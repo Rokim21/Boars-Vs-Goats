@@ -1,6 +1,6 @@
 state={
-	id=713
-	name="STATE_713"
+	id=1239
+	name="STATE_1239"
 	history={
 		owner = MUS
 		add_core_of = MUS

@@ -1,7 +1,7 @@
 
 state={
-	id=724
-	name="STATE_724"
+	id=1250
+	name="STATE_1250"
 	state_category = rural
 	history={
 		owner = POR

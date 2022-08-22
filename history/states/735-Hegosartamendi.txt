@@ -1,7 +1,7 @@
 
 state={
-	id=735
-	name="STATE_735"
+	id=1261
+	name="STATE_1261"
 	state_category = rural
 	resources={
 		steel = 9

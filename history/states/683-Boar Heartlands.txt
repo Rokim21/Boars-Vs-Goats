@@ -1,7 +1,7 @@
 
 state={
-	id=683
-	name="STATE_683"
+	id=1209
+	name="STATE_1209"
 	state_category = metropolis
 	resources={
 		oil = 2
@@ -23,7 +23,7 @@ state={
 	}
 
 	provinces={
-		13357 13374 13375 13875 13878 13882 13884 13886 13892 13893 13895 14020 14022 
+		21084
 	}
 	manpower=2321000
 	buildings_max_level_factor=1.000

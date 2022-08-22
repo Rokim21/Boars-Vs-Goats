@@ -1,7 +1,7 @@
 
 state={
-	id=684
-	name="STATE_684"
+	id=1210
+	name="STATE_1210"
 	state_category = pastoral
 	resources={
 		steel = 12
@@ -16,7 +16,7 @@ state={
 	}
 
 	provinces={
-		13356 13468 14000 14002 14003 14005 14006 14010 14011 14012 14016 
+		20992
 	}
 	manpower=83000
 	buildings_max_level_factor=1.000
