@@ -2,26 +2,32 @@
 state={
 	id=1224
 	name="STATE_1224"
-	state_category = town
 	resources={
-		steel = 6
-		crystals= 5
-		chromium = 8
-		tungsten= 1
-		aluminum = 5
+		steel=6.000
+		crystals=5.000
+		chromium=8.000
+		tungsten=1.000
 	}
+
 	history={
 		owner = ANT
 		add_core_of = ANT
 		buildings = {
 			infrastructure = 3
-			13696 = { naval_base = 3 }
+			13696 = {
+				naval_base = 3
+
+			}
+
 		}
+
 	}
 
 	provinces={
-		13344 13420 13422 13423 13424 13674 13681 13682 13683 13684 13685 13686 13687 13688 13689 13690 13691 13692 13693 13694 13695 13696 
+		21485 21499 21503 21504 21505 21509 21512 21513 21514 21515 21516 21517 21519 21520 21521 21522 21523 21524 21525 21526 21527 21528 
 	}
 	manpower=274000
 	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
 }

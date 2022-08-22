@@ -2,25 +2,28 @@
 state={
 	id=1245
 	name="STATE_1245"
-	state_category = rural
 	resources={
-		steel = 7
-		crystals= 10
-		chromium = 13
-		tungsten= 2
-		aluminum = 6
+		steel=7.000
+		crystals=10.000
+		chromium=13.000
+		tungsten=2.000
 	}
+
 	history={
 		owner = ANT
 		add_core_of = ANT
 		buildings = {
 			infrastructure = 1
+
 		}
+
 	}
 
 	provinces={
-		13421 13660 13661 13662 13663 13664 13666 13667 13668 13669 13671 13672 13673 13675 13676 13677 13678 13679 13680 
+		21424 21431 21439 21444 21451 21455 21464 21467 21469 21474 21481 21483 21484 21487 21490 21492 21495 21496 21501 
 	}
 	manpower=103000
 	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
 }

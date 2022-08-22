@@ -1,14 +1,18 @@
+
 state={
 	id=1239
 	name="STATE_1239"
+
 	history={
 		owner = MUS
 		add_core_of = MUS
 
 	}
+
 	provinces={
-		13432 13433 13546 13548 13550 13551 13558 13559 13563 13567 
+		21364 21367 21370 21374 21388 21392 21395 21410 21415 21427 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
+	local_supplies=0.000
 }

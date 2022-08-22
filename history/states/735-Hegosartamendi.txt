@@ -2,22 +2,27 @@
 state={
 	id=1261
 	name="STATE_1261"
-	state_category = rural
 	resources={
-		steel = 9
-		aluminium = 2
+		steel=9.000
+		aluminium=2.000
 	}
+
 	history={
 		owner = POR
 		add_core_of = POR
 		buildings = {
 			infrastructure = 1
 			arms_factory = 1
+
 		}
+
 	}
+
 	provinces={
-		13955 13956 13958 13959 13963 13965 13966 13968 13970 13971 13974 13977 13978 13981 13982 13984 13985 13986 13990 13991 13992 13993 13994 13995 13997 13998 
+		20819 20827 20828 20829 20835 20837 20838 20840 20845 20848 20853 20858 20859 20865 20870 20872 20873 20874 20883 20884 20885 20886 20889 20890 20900 20909 
 	}
 	manpower=321000
 	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
 }

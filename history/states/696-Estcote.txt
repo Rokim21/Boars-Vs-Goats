@@ -2,25 +2,27 @@
 state={
 	id=1222
 	name="STATE_1222"
-	state_category = town
 	resources={
-		steel = 3
-		aluminium = 16
+		steel=3.000
+		aluminium=16.000
 	}
+
 	history={
 		owner = POR
 		add_core_of = POR
 		buildings = {
 			infrastructure = 6
 			industrial_complex = 1
+
 		}
-		#victory_points = {
-		#	13375 10 
-		#}
+
 	}
+
 	provinces={
-		13402 13407 13409 13410 13774 13775 13777 13778 13780 13782 13783 13784 13785 13789 13790 13791 13793 13794 13797 13798 13800 13801 13805 13807 13809 13810 13812 
+		21205 21206 21208 21209 21210 21212 21214 21217 21218 21219 21221 21226 21227 21228 21232 21234 21237 21239 21243 21245 21247 21252 21254 21262 21265 21269 21278 
 	}
 	manpower=278000
 	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
 }

@@ -2,20 +2,25 @@
 state={
 	id=1263
 	name="STATE_1263"
-	state_category = pastoral
 	resources={
-		rubber = 4
+		rubber=4.000
 	}
+
 	history={
 		owner = POR
 		add_core_of = POR
 		buildings = {
 			infrastructure = 2
+
 		}
+
 	}
+
 	provinces={
-		13366 13376 13377 13381 14095 14098 14104 14105 14106 14109 14112 14114 14117 14118 14119 14120 14121 14122 14123 14125 14126 14127 14128 14130 
+		20904 20924 20942 20950 20957 20973 20974 20977 20982 20990 20995 20998 21008 21012 21013 21018 21019 21020 21033 21045 
 	}
 	manpower=241000
 	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
 }

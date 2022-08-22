@@ -1,25 +1,34 @@
+
 state={
 	id=1262
 	name="STATE_1262"
-	state_category = rural
 	resources={
-		rubber = 2
+		rubber=2.000
 	}
+
 	history={
 		owner = WNG
 		add_core_of = POR
 		buildings = {
 			infrastructure = 6
 			dockyard = 2
-			14111 = { naval_base = 4 }
+			20945 = {
+				naval_base = 4
+
+			}
+
 		}
 		victory_points = {
-			14111 5 
+			20945 5 
 		}
+
 	}
+
 	provinces={
-		14110 14111 
+		20945 20949 
 	}
 	manpower=17000
 	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
 }

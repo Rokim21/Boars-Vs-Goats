@@ -2,13 +2,13 @@
 state={
 	id=1231
 	name="STATE_1231"
-	state_category = large_city
 	resources={
-		tungsten = 8
-		steel = 15
-		aluminium = 11
-		crystals = 25
+		tungsten=8.000
+		steel=15.000
+		aluminium=11.000
+		crystals=25.000
 	}
+
 	history={
 		owner = MUS
 		add_core_of = MUS
@@ -16,16 +16,19 @@ state={
 			infrastructure = 5
 			arms_factory = 2
 			industrial_complex = 4
+
 		}
 		victory_points = {
-			13499 35 
+			21394 35 
 		}
 
 	}
 
 	provinces={
-		13445 13448 13451 13453 13454 13499 13540 13541 13549 13552 13556 13557 13560 13562 13565 13566 13569 
+		21351 21352 21358 21369 21380 21381 21383 21387 21389 21394 21399 21400 21403 21406 21412 21414 21422 
 	}
 	manpower=2427000
 	buildings_max_level_factor=1.000
+	state_category=large_city
+	local_supplies=0.000
 }

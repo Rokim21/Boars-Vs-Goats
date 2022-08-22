@@ -2,22 +2,26 @@
 state={
 	id=1210
 	name="STATE_1210"
-	state_category = pastoral
 	resources={
-		steel = 12
-		aluminium = 4
+		steel=12.000
+		aluminium=4.000
 	}
+
 	history={
 		owner = POR
 		add_core_of = POR
 		buildings = {
 			infrastructure = 3
+
 		}
+
 	}
 
 	provinces={
-		20992
+		20918 20933 20939 20946 20947 20954 20989 20992 20993 21022 21023 
 	}
 	manpower=83000
 	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
 }

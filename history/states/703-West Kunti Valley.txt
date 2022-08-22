@@ -10,8 +10,9 @@ state={
 	}
 
 	provinces={
-		13442 13473 13475 13477 13478 13479 13482 13483 13488 
+		21256 21259 21264 21272 21282 21283 21303 21307 21328 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
+	local_supplies=0.000
 }

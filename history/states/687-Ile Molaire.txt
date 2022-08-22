@@ -2,19 +2,22 @@
 state={
 	id=1213
 	name="STATE_1213"
-	state_category = rural
+
 	history={
 		owner = POR
 		add_core_of = POR
 		buildings = {
 			infrastructure = 3
+
 		}
 
 	}
 
 	provinces={
-		13345 13411 13636 13637 13638 13639 13640 13641 13642 13643 
+		20991 20996 20999 21000 21014 21040 21077 21100 21106 21123 
 	}
 	manpower=23300
 	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
 }

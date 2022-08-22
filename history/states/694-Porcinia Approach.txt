@@ -2,11 +2,11 @@
 state={
 	id=1220
 	name="STATE_1220"
-	state_category = metropolis
 	resources={
-		steel = 2
-		aluminium = 4
+		steel=2.000
+		aluminium=4.000
 	}
+
 	history={
 		owner = POR
 		add_core_of = POR
@@ -15,11 +15,16 @@ state={
 			arms_factory = 3
 			industrial_complex = 3
 			dockyard = 1
+
 		}
+
 	}
+
 	provinces={
-		13406 13770 13773 13779 13781 13786 13787 13788 13792 13795 13796 13799 13802 13803 13804 13806 13808 13811 
+		21199 21204 21213 21215 21222 21223 21225 21230 21231 21235 21236 21241 21246 21250 21251 21255 21263 21271 
 	}
 	manpower=1134000
 	buildings_max_level_factor=1.000
+	state_category=metropolis
+	local_supplies=0.000
 }

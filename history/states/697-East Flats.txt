@@ -2,10 +2,10 @@
 state={
 	id=1223
 	name="STATE_1223"
-	state_category = large_city
 	resources={
-		steel = 1
+		steel=1.000
 	}
+
 	history={
 		owner = ANT
 		add_core_of = ANT
@@ -13,16 +13,23 @@ state={
 			infrastructure = 5
 			arms_factory = 1
 			industrial_complex = 2
-			13646 = { naval_base = 5 }
+			21294 = {
+				naval_base = 5
+
+			}
+
 		}
 		victory_points = {
-			13582 15 
+			21294 15 
 		}
+
 	}
 
 	provinces={
-		13414 13416 13580 13582 13601 13614 13645 13646 13648 13649 13650 13651 13652 13653 13654 13656 
+		21294 21302 21314 21315 21324 21332 21336 21343 21345 21349 21356 21359 21368 21371 21372 21378 
 	}
 	manpower=622000
 	buildings_max_level_factor=1.000
+	state_category=large_city
+	local_supplies=0.000
 }

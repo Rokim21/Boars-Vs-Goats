@@ -2,21 +2,26 @@
 state={
 	id=1251
 	name="STATE_1251"
-	state_category = wasteland
 	resources={
-		chromium = 1
-		tungsten = 3
+		chromium=1.000
+		tungsten=3.000
 	}
+
 	history={
 		owner = POR
 		add_core_of = POR
 		buildings = {
 			infrastructure = 1
+
 		}
+
 	}
+
 	provinces={
-		13380 13382 13383 13384 13707 13708 13710 14108 14113 14115 14116 14124 14129 
+		20938 20956 20960 20967 20981 21011 21029 21039 21048 21053 21064 21069 21088 
 	}
 	manpower=234000
 	buildings_max_level_factor=1.000
+	state_category=wasteland
+	local_supplies=0.000
 }

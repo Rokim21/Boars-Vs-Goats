@@ -1,18 +1,24 @@
+
 state={
 	id=1256
 	name="STATE_1256"
-	state_category = rural
+
 	history={
 		owner = POR
 		add_core_of = POR
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
+
 		}
+
 	}
+
 	provinces={
-		13351 13355 13973 13987 13988 13996 13999 14001 14004 14007 14009 14014 14017 
+		20852 20879 20880 20896 20916 20917 20925 20944 20961 20968 20988 21009 21030 
 	}
 	manpower=213000
 	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
 }

@@ -2,11 +2,11 @@
 state={
 	id=1209
 	name="STATE_1209"
-	state_category = metropolis
 	resources={
-		oil = 2
-		steel = 2
+		oil=2.000
+		steel=2.000
 	}
+
 	history={
 		owner = POR
 		add_core_of = POR
@@ -15,16 +15,23 @@ state={
 			arms_factory = 2
 			industrial_complex = 5
 			dockyard = 2
-			13895 = { naval_base = 5 }
+			21085 = {
+				naval_base = 5
+
+			}
+
 		}
 		victory_points = {
-			13375 30 
+			21085 30 
 		}
+
 	}
 
 	provinces={
-		21084
+		21051 21057 21058 21066 21067 21070 21071 21078 21085 21092 21096 21101 21107 
 	}
 	manpower=2321000
 	buildings_max_level_factor=1.000
+	state_category=metropolis
+	local_supplies=0.000
 }

@@ -2,7 +2,7 @@
 state={
 	id=1246
 	name="STATE_1246"
-	state_category = large_town
+
 	history={
 		owner = ANT
 		add_core_of = ANT
@@ -10,13 +10,20 @@ state={
 			infrastructure = 3
 			industrial_complex = 1
 			dockyard = 1
-			13665 = { naval_base = 3 }
+			13665 = {
+				naval_base = 3
+
+			}
+
 		}
+
 	}
-	
+
 	provinces={
-		13418 13419 13655 13657 13658 13659 13665 13670 
+		21375 21397 21398 21421 21435 21458 21461 21477 
 	}
 	manpower=168000
 	buildings_max_level_factor=1.000
+	state_category=large_town
+	local_supplies=0.000
 }

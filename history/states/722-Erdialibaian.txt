@@ -2,10 +2,10 @@
 state={
 	id=1248
 	name="STATE_1248"
-	state_category = large_city
 	resources={
-		steel = 2
+		steel=2.000
 	}
+
 	history={
 		owner = POR
 		add_core_of = POR
@@ -13,15 +13,19 @@ state={
 			infrastructure = 8
 			arms_factory = 2
 			industrial_complex = 4
+
 		}
 		victory_points = {
-			13372 20 
+			21016 20 
 		}
 
 	}
+
 	provinces={
-		13352 13354 13372 13373 13843 13849 13851 13854 13857 13860 13862 13863 13874 14013 
+		20979 20983 20984 20994 21001 21002 21003 21015 21016 21024 21025 21034 21042 21046 
 	}
 	manpower=1834000
 	buildings_max_level_factor=1.000
+	state_category=large_city
+	local_supplies=0.000
 }

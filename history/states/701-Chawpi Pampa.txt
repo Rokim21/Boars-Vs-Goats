@@ -2,10 +2,10 @@
 state={
 	id=1227
 	name="STATE_1227"
-	state_category = large_city
 	resources={
-		steel = 5
+		steel=5.000
 	}
+
 	history={
 		owner = MUS
 		add_core_of = MUS
@@ -14,17 +14,23 @@ state={
 			arms_factory = 1
 			industrial_complex = 2
 			dockyard = 3
-			13440 = { naval_base = 4 }
+			21277 = {
+				naval_base = 4
+
+			}
+
 		}
 		victory_points = {
-			13440 20 
+			21277 20 
 		}
 
 	}
 
 	provinces={
-		13415 13431 13439 13440 13509 13511 13513 13516 13519 13521 13523 13526 13528 13529 13530 13531 13533 13534 13537 13539 13539 13543 
+		21273 21276 21277 21284 21287 21289 21290 21293 21299 21305 21309 21313 21317 21318 21322 21323 21331 21334 21344 21348 21354 
 	}
 	manpower=1214000
 	buildings_max_level_factor=1.000
+	state_category=large_city
+	local_supplies=0.000
 }

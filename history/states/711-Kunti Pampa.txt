@@ -2,21 +2,25 @@
 state={
 	id=1237
 	name="STATE_1237"
-	state_category = rural
 	resources={
-		tungsten = 3
+		tungsten=3.000
 	}
+
 	history={
 		owner = MUS
 		add_core_of = MUS
 		buildings = {
 			infrastructure = 3
+
 		}
+
 	}
 
 	provinces={
-		13435 13441 13443 13501 13502 13503 13504 13506 13507 13512 13514 13518 13527 13532 13536 13542 
+		21229 21238 21240 21248 21261 21267 21268 21280 21286 21292 21304 21316 21321 21329 21341 21353 
 	}
 	manpower=581000
 	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
 }

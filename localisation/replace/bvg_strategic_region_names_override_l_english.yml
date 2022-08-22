@@ -1,7 +1,10 @@
 ﻿l_english:
- STRATEGICREGION_234:0 "Inner Zerrikan"
- STRATEGICREGION_235:0 "Main Gulf"
- STRATEGICREGION_236:0 "Caprinia"
- STRATEGICREGION_237:0 "Southern Zerrikan"
- STRATEGICREGION_238:0 "Western Zerrikan"
- STRATEGICREGION_239:0 "Eastern Zerrikan"
+ STRATEGICREGION_232:0 "Porcicaprian Gulf"
+
+ STRATEGICREGION_342:0 "Inner Zerrikan"
+ STRATEGICREGION_343:0 "Southern Caprinia"
+ STRATEGICREGION_344:0 "Southern Zerrikan"
+ STRATEGICREGION_345:0 "Western Zerrikan"
+ STRATEGICREGION_346:0 "Eastern Zerrikan"
+ STRATEGICREGION_347:0 "Western Caprinia"
+ STRATEGICREGION_348:0 "Northern Caprinia"

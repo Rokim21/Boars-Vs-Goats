@@ -1,7 +1,8 @@
+
 state={
 	id=1255
 	name="STATE_1255"
-	state_category = city
+
 	history={
 		owner = POR
 		add_core_of = POR
@@ -9,11 +10,16 @@ state={
 			infrastructure = 8
 			arms_factory = 3
 			industrial_complex = 2s
+
 		}
+
 	}
+
 	provinces={
-		13394 13405 13758 13759 13760 13764 13765 13772 13776 
+		21186 21187 21188 21193 21194 21200 21201 21203 21207 
 	}
 	manpower=584000
 	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
 }
